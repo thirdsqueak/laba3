@@ -7,7 +7,6 @@
 </head>
 <body>
     <?php
-    echo "testchanges number 2<br>/n"; 
     echo "HELP ME<br>/n"; 
     ?>
 </body>
